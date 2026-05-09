@@ -1,0 +1,177 @@
+[
+  {
+    "prompt": "When Mary and John went to the store, John gave a bottle of milk to",
+    "subject": "John",
+    "indirect_object": "Mary",
+    "correct_token": " Mary",
+    "incorrect_token": " John"
+  },
+  {
+    "prompt": "When Tom and Sarah went to the park, Tom handed a flower to",
+    "subject": "Tom",
+    "indirect_object": "Sarah",
+    "correct_token": " Sarah",
+    "incorrect_token": " Tom"
+  },
+  {
+    "prompt": "When Alice and Bob went to the office, Bob sent an email to",
+    "subject": "Bob",
+    "indirect_object": "Alice",
+    "correct_token": " Alice",
+    "incorrect_token": " Bob"
+  },
+  {
+    "prompt": "When Emma and James went to the library, James returned a book to",
+    "subject": "James",
+    "indirect_object": "Emma",
+    "correct_token": " Emma",
+    "incorrect_token": " James"
+  },
+  {
+    "prompt": "When Lisa and Mark went to the restaurant, Mark passed the menu to",
+    "subject": "Mark",
+    "indirect_object": "Lisa",
+    "correct_token": " Lisa",
+    "incorrect_token": " Mark"
+  },
+  {
+    "prompt": "When Anna and Peter went to the gym, Peter gave a towel to",
+    "subject": "Peter",
+    "indirect_object": "Anna",
+    "correct_token": " Anna",
+    "incorrect_token": " Peter"
+  },
+  {
+    "prompt": "When Laura and David went to the market, David handed the bag to",
+    "subject": "David",
+    "indirect_object": "Laura",
+    "correct_token": " Laura",
+    "incorrect_token": " David"
+  },
+  {
+    "prompt": "When Sophie and Chris went to the cinema, Chris bought a ticket for",
+    "subject": "Chris",
+    "indirect_object": "Sophie",
+    "correct_token": " Sophie",
+    "incorrect_token": " Chris"
+  },
+  {
+    "prompt": "When Rachel and Michael went to the concert, Michael saved a seat for",
+    "subject": "Michael",
+    "indirect_object": "Rachel",
+    "correct_token": " Rachel",
+    "incorrect_token": " Michael"
+  },
+  {
+    "prompt": "When Julia and Kevin went to the beach, Kevin passed the sunscreen to",
+    "subject": "Kevin",
+    "indirect_object": "Julia",
+    "correct_token": " Julia",
+    "incorrect_token": " Kevin"
+  },
+  {
+    "prompt": "When Helen and George went to the airport, George carried the luggage for",
+    "subject": "George",
+    "indirect_object": "Helen",
+    "correct_token": " Helen",
+    "incorrect_token": " George"
+  },
+  {
+    "prompt": "When Kate and Brian went to the museum, Brian explained the painting to",
+    "subject": "Brian",
+    "indirect_object": "Kate",
+    "correct_token": " Kate",
+    "incorrect_token": " Brian"
+  },
+  {
+    "prompt": "When Amy and Daniel went to the party, Daniel brought a gift for",
+    "subject": "Daniel",
+    "indirect_object": "Amy",
+    "correct_token": " Amy",
+    "incorrect_token": " Daniel"
+  },
+  {
+    "prompt": "When Claire and Ryan went to the hospital, Ryan opened the door for",
+    "subject": "Ryan",
+    "indirect_object": "Claire",
+    "correct_token": " Claire",
+    "incorrect_token": " Ryan"
+  },
+  {
+    "prompt": "When Hannah and Luke went to the cafe, Luke ordered a coffee for",
+    "subject": "Luke",
+    "indirect_object": "Hannah",
+    "correct_token": " Hannah",
+    "incorrect_token": " Luke"
+  },
+  {
+    "prompt": "When Olivia and Nathan went to the gallery, Nathan described the sculpture to",
+    "subject": "Nathan",
+    "indirect_object": "Olivia",
+    "correct_token": " Olivia",
+    "incorrect_token": " Nathan"
+  },
+  {
+    "prompt": "When Grace and Ethan went to the stadium, Ethan passed the binoculars to",
+    "subject": "Ethan",
+    "indirect_object": "Grace",
+    "correct_token": " Grace",
+    "incorrect_token": " Ethan"
+  },
+  {
+    "prompt": "When Mia and Oliver went to the hotel, Oliver carried the bags for",
+    "subject": "Oliver",
+    "indirect_object": "Mia",
+    "correct_token": " Mia",
+    "incorrect_token": " Oliver"
+  },
+  {
+    "prompt": "When Chloe and Jack went to the farm, Jack showed the animals to",
+    "subject": "Jack",
+    "indirect_object": "Chloe",
+    "correct_token": " Chloe",
+    "incorrect_token": " Jack"
+  },
+  {
+    "prompt": "When Victoria and Henry went to the theatre, Henry reserved the best seat for",
+    "subject": "Henry",
+    "indirect_object": "Victoria",
+    "correct_token": " Victoria",
+    "incorrect_token": " Henry"
+  },
+  {
+    "prompt": "When Rose and Andrew went to the laboratory, Andrew demonstrated the experiment to",
+    "subject": "Andrew",
+    "indirect_object": "Rose",
+    "correct_token": " Rose",
+    "incorrect_token": " Andrew"
+  },
+  {
+    "prompt": "When Diana and Samuel went to the zoo, Samuel pointed at the lions for",
+    "subject": "Samuel",
+    "indirect_object": "Diana",
+    "correct_token": " Diana",
+    "incorrect_token": " Samuel"
+  },
+  {
+    "prompt": "When Natalie and Joseph went to the conference, Joseph summarised the talk for",
+    "subject": "Joseph",
+    "indirect_object": "Natalie",
+    "correct_token": " Natalie",
+    "incorrect_token": " Joseph"
+  },
+  {
+    "prompt": "When Zoe and Patrick went to the studio, Patrick played the new song for",
+    "subject": "Patrick",
+    "indirect_object": "Zoe",
+    "correct_token": " Zoe",
+    "incorrect_token": " Patrick"
+  },
+  {
+    "prompt": "When Iris and Marcus went to the workshop, Marcus built a chair for",
+    "subject": "Marcus",
+    "indirect_object": "Iris",
+    "correct_token": " Iris",
+    "incorrect_token": " Marcus"
+  }
+]
